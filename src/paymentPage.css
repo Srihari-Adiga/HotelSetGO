@@ -1,0 +1,104 @@
+.paymentbody {
+    margin: 0;
+    padding: 0;
+    background-image: url(payment2.jpg);
+    background-size: cover;
+    background-position: top;
+    font-family: sans-serif;
+    min-height: 820px;
+}
+
+
+.top5{
+    height: 60px;
+    width: 100%;
+    text-align: left;
+    justify-content: center;
+    background-color: rgb(0, 0, 0);
+    font-size: 40px;
+    font-weight: bold;
+    opacity: 0.8;
+}   
+.avatar5{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline;
+    float: left;
+}
+.top5 h1
+{
+    display: inline;
+    color: white;
+    padding-bottom: 20%;
+    font-size: 54;
+}
+#L1
+{
+    margin-left: 45.3%;
+    color:black;
+    font-size:35px;
+    font-weight: bolder;
+}
+#L2
+{
+    margin-left: 42.5%;
+    color:black;
+    font-size: 25px;
+    font-weight: bolder;
+}
+#d1
+{
+    display: block;
+}
+#u1
+{
+    margin-left: 41%;
+    color: black;
+    font-size: 25px;
+}
+#d2
+{
+    display: block;
+    position: absolute;
+    top: 55%;
+    left: 42%;
+    box-sizing: border-box;
+}
+#L3
+{
+    color:black;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.i1
+{
+    margin-left: 10px;
+    width: 25px;
+    height: 15px;
+    
+    
+}
+.i2
+{
+    color: black;
+    font-size: 21px;
+    font-weight: bold;
+    background-color: azure;
+    width: 200px;
+}
+#S1
+{
+    margin-left: 25px;
+    font-size: 20px;
+    width: 200px;
+    color:black;
+    font-weight: bold;
+    background-color: honeydew;
+    box-sizing: border-box;
+    position: absolute;
+    border-radius: 6%;
+}
+#S1:hover{
+    background-color: aqua;
+}

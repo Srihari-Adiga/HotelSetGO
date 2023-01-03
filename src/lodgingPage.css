@@ -1,0 +1,117 @@
+.full2{
+    margin: 0;
+    padding: 0;
+    background-image: url(lodgingbg.jpg);
+    background-size: cover;
+    background-position: bottom;
+    height: 715px;
+}
+
+
+
+
+
+.top4{
+    height: 50px;
+    width: 100%;
+    text-align: left;
+    justify-content: center;
+    background-color: rgb(0, 0, 0);
+    font-size: 40px;
+    font-weight: bold;
+    opacity: 0.8;
+}   
+.avatar4{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline;
+    float: left;
+}
+.top4 h1
+{
+    display: inline;
+    color: white;
+    padding-bottom: 20%;
+    font-size: 54;
+}
+#l1
+{
+    margin-left: 43%;
+    font-size: 25px;
+    background-color: burlywood;
+    width: 100px;
+}
+#l2
+{
+    margin-left: 19.5%;
+    font-size: 20px;
+}
+#l3
+{
+    margin-left: 10%;
+    font-size: 20px;
+}
+#l4
+{
+    margin-left: 19.5%;
+    font-size: 20px;
+}
+#l5
+{
+    margin-left: 8.5%;
+    font-size: 20px;
+}
+#l6
+{
+    margin-left: 19.5%;
+    font-size: 20px;
+}
+#l7
+{
+    margin-left: 10%;
+    font-size: 20px;
+}
+#l8
+{
+    margin-left: 15px;
+    font-size: 20px;
+}
+#b1
+{
+    margin-left: 42%;
+    margin-bottom: 2%;
+    font-size: 18px;
+    font-weight: bold;
+    width:200px;
+    border-radius: 5%;
+}
+#f1
+{
+    background-color: lightcyan;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-radius: 10%;
+    height: 560px;
+}
+#i1
+{
+    margin-left: 16px;
+}
+#i2
+{
+    margin-left: 14px;
+}
+#i3
+{
+    width: 152px;
+}
+#i4
+{
+    width: 152px;
+}
+#s1
+{
+    margin-left: 3px;
+    width: 170px;
+}
